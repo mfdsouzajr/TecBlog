@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+
+#cabecalho {
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo {
+    padding: 10px;
+}
+
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #f7b600;
+}
+
+h3 {
+    color: #565656;
+    background-color: #CCC;
+    padding: 5px;
+}
+
+p {
+    margin-top: 5px;
+    margin-left: 1px;
+    margin-bottom: 10px;
+}
+
+.branco {
+    color: white;
+}
+
+#menu-principal {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #f7b600;
+}
+
+a:link, a:visited {
+    color: #f7b600;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: white;
+}
+
+#cabecalho a:link, #cabecalho a:visited {
+    color: white;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+
+#cabecalho a:hover {
+    color: #f7b600;
+    background-color: white;
+    text-decoration: none;
+}
+
+#conteudo {
+    background-color: white;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#postagens {
+    width: 700px;
+    float: left;
+    background-color: white;
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.postagem-lateral {
+    font-size: 0.8em;
+    padding: 5px;   
+    border-bottom: 1px dotted #CCC;
+}
+
+.data-postagem {
+    font-size: 0.75em;
+    font-style: italic;
+    display: block;
+    border-bottom: 1px solid rgba(70, 51, 128, 0.171);
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#btnLeiaMais1 {
+    color: slategrey;
+    background-color: #ece9e9bb;
+    padding: 5px;
+}
+
+#btnLeiaMais2 {
+    color: slategrey;
+    background-color: #ece9e9bb;
+    padding: 5px;
+}
+
+#textoOculto1 {
+    display: none;
+}
+
+#textoOculto2 {
+    display: none;
+}
+
+#textoOcultoLink1 {
+    display: none;
+}
+
+#textoOcultoLink2 {
+    display: none;
+}
+
+#textoOcultoLink3 {
+    display: none;
+}
+
+#textoOcultoLink4 {
+    display: none;
+}
+
+#textoOcultoLink5 {
+    display: none;
+}
+
+#textoOcultoLink6 {
+    display: none;
+}
+
+#textoOcultoLink7 {
+    display: none;
+}
+
+#textoOcultoLink8 {
+    display: none;
+}
+
+#textoOcultoLink9 {
+    display: none;
+}
+
+#textoOcultoLink10 {
+    display: none;
+}
+
+#textoOcultoLink11 {
+    display: none;
+}
+
+#textoOcultoLink12 {
+    display: none;
+}
+
+#textoOcultoLink13 {
+    display: none;
+}
+
+#textoOcultoLink14 {
+    display: none;
+}
+
+#textoOcultoLink15 {
+    display: none;
+}
+
+#textoOcultoLink16 {
+    display: none;
+}
+
+#textoOcultoLink17 {
+    display: none;
+}
+
+#textoOcultoLink18 {
+    display: none;
+}
+
+#textoOcultoLink19 {
+    display: none;
+}
+
+#textoOcultoLink20 {
+    display: none;
+}
+
+#menu-lateral {
+    width: 280px;
+    float: right;
+}
+
+.conteudo-lateral {
+    background-color: white;
+    padding: 10px;
+}
+
+#rodape {
+    clear: both;
+    text-align: center;
+    background-color: #CCC;
+    width: auto;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
